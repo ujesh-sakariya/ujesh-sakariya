@@ -18,6 +18,13 @@ Created a secure real-time messaging app with RSA/AES encryption, two-factor aut
 
 `Python` `Flask` `Socket.IO` `JavaScript` `MySQL` `Cryptography`
 
+### [MU0 Crossy Road](https://github.com/ujesh-sakariya/mu0-crossy-road)
+Created an infinite Crossy Road-style game in MU0 assembly, running on a custom MU0-style CPU I first implemented in Verilog as part of my university computer systems course.
+
+Implemented LED grid rendering, keypad movement controls, moving cars, collision detection, score tracking, pause/reset controls, sound/vibration feedback, and increasing game speed using memory-mapped I/O.
+
+`Assembly` `MU0` `Computer Architecture` `Memory-Mapped I/O` 
+
 ---
 
 ## Technologies I Use
