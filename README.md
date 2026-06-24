@@ -18,21 +18,6 @@ Created a secure real-time messaging app with RSA/AES encryption, two-factor aut
 
 `Python` `Flask` `Socket.IO` `JavaScript` `MySQL` `Cryptography`
 
-### [BPHO Computational Physics](https://github.com/ujesh-sakariya/BPHO)
-Developed Python simulations for the British Physics Computational Olympiad, earning a Gold Award.
-
-`Python` `Numerical Methods` `Physics` `Tkinter`
-
-### [Spam Email Detection](https://github.com/ujesh-sakariya/SpamEmailDetection)
-Implemented a Naive Bayes spam classifier manually, focusing on understanding the underlying machine learning logic rather than relying on high-level ML libraries.
-
-`Python` `Jupyter Notebook` `Naive Bayes` `Machine Learning`
-
-### [Lights Out](https://github.com/ujesh-sakariya/Lights-Out)
-Built a Tkinter-based game with custom logic, UI handling, and coursework-level polish.
-
-`Python` `Tkinter` `Game Development`
-
 ---
 
 ## Technologies I Use
