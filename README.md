@@ -22,7 +22,7 @@ Created a secure real-time messaging app with RSA/AES encryption, two-factor aut
 
 ## Low-Level & Embedded Projects
 
-### [RISC-V Morse Code Translator](https://github.com/ujesh-sakariya/riscv-morse-code)
+### [RISC-V Morse Code Translator](https://github.com/ujesh-sakariya/risc-v-morse-code-transalator)
 Built a Morse code translator in RISC-V assembly using keyboard input, LCD output, timer interrupts, external button interrupts, and a buzzer controlled by a finite-state machine.
 
 Designed custom memory-mapped peripherals and used machine-mode trap handling, `ecall`s, interrupt-driven timing, button debouncing, and queue-based message playback so the CPU could continue accepting keyboard input while Morse code was being played.
