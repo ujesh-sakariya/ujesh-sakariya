@@ -1,6 +1,6 @@
 # Hi, I'm Ujesh 👋
 
-I'm a Computer Science student at the University of Manchester, currently persuing a Software Engineering Industrial Placement at HubSpot.
+I'm a Computer Science student at the University of Manchester, pursuing a Software Engineering Industrial Placement at HubSpot.
 
 I enjoy building projects that combine software engineering, embedded systems, machine learning, and practical user-facing products.
 
